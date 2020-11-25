@@ -1,0 +1,11 @@
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.Form1.resources
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.cache
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\JoseCarpio\Desktop\UGFCMF\PRACTICACSHARP\BaseDeDatos\obj\Debug\BaseDeDatos.Insertar.resources
